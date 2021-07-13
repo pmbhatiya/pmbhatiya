@@ -65,11 +65,11 @@ I have qualified GATE 2020 conducted by IIT Delhi. I have recently completed Sof
 
 <!--START_SECTION:waka-->
 ```text
-Python 	     15 hrs 41 mins  ████████████████████▓░░░░   82.29 % 
-HTML         1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-C++          1 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-Other        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-C            2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+C++ 	      15 hrs 41 mins  ████████████████████▓░░░░   82.29 % 
+Python        6 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+HTML          3 hr 27 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
+Other        58 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+CSS          38 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 ```
 <!--END_SECTION:waka-->
 
