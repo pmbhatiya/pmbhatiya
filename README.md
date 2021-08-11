@@ -46,7 +46,7 @@ I have qualified GATE 2020 conducted by IIT Delhi. I have recently completed Sof
 <br />
 
 #### Bizness
-- :paperclip: [My Resume/CV](https://github.com/pmbhatiya/pmbhatiya/blob/master/resumes/paresh_bhatiya.pdf)
+- :paperclip: [My Resume/CV](https://github.com/pmbhatiya/pmbhatiya/blob/master/resumes/Paresh_Bhatiya_CV.pdf)
 - :email: pmbhatiya9@gmail.com
 
 
