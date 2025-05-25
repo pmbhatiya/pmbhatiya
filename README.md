@@ -18,9 +18,9 @@ I qualified GATE 2020 conducted by IIT Delhi. I am currently working full-time a
 
 ### Proficient Languages
 
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <br/>
 
 #### Cloud Platforms
@@ -60,7 +60,7 @@ I qualified GATE 2020 conducted by IIT Delhi. I am currently working full-time a
 
 #### Profile Visits 
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=pmbhatiya.pmbhatiya)
+![visitors](https://komarev.com/ghpvc/?username=pmbhatiya&label=Profile%20visits&color=0e75b6&style=flat)
 
 <details>
 <summary>
@@ -73,16 +73,16 @@ I qualified GATE 2020 conducted by IIT Delhi. I am currently working full-time a
 
 <!--START_SECTION:waka-->
 ```text
-C++           15 hrs 41 mins   ████████████████████▓░░░░   82.29 % 
-Python         6 hrs 50 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
-HTML           3 hrs 27 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 % 
-Other            58 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-CSS              38 mins       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Python         10 hrs 20 mins  █████████████░░░░░░░░░░░░   45.12 % 
+Node.js         7 hrs 15 mins  ████████▒░░░░░░░░░░░░░░░░   31.66 % 
+C++             4 hrs 6 mins   ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
+HTML           1 hr 12 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
+CSS            38 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 ```
 <!--END_SECTION:waka-->
 
 #### Github Stats
 
-![pm bhatiya's github stats](https://github-readme-stats.vercel.app/api?username=pmbhatiya&count_private=true&theme=tokyonight&hide=contribs,prs)
+![Paresh's GitHub stats](https://github-readme-stats.vercel.app/api?username=pmbhatiya&show_icons=true&theme=tokyonight)
 
 </details>
