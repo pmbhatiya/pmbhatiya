@@ -4,7 +4,7 @@ I'm Paresh Bhatiya, a **Senior Software Engineer**. I spend most of my time codi
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/%40pmbhatiya-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](#) 
+[![Twitter Badge](https://img.shields.io/badge/@pmbhatiya-1DA1F2?style=flat&labelColor=1DA1F2&logo=twitter&logoColor=white)](#) 
 [![Mail Badge](https://img.shields.io/badge/pmbhatiya-lightgrey?style=flat&labelColor=lightgrey&logo=github&logoColor=black)](https://github.com/pmbhatiya) 
 [![Linkedin Badge](https://img.shields.io/badge/-pmbhatiya-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pmbhatiya) 
 [![Mail Badge](https://img.shields.io/badge/-pmbhatiya-orange?style=flat&labelColor=orange&logo=google&logoColor=white)](#) 
