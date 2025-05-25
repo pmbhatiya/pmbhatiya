@@ -6,9 +6,9 @@ I'm Paresh Bhatiya, a **Senior Software Engineer**. I spend most of my time codi
 
 [![Twitter Badge](https://img.shields.io/badge/%40pmbhatiya-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white)](#) 
 [![Mail Badge](https://img.shields.io/badge/pmbhatiya-lightgrey?style=flat&labelColor=lightgrey&logo=github&logoColor=black)](https://github.com/pmbhatiya) 
-[![Linkedin Badge](https://img.shields.io/badge/-pmbhatiya-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](#) 
+[![Linkedin Badge](https://img.shields.io/badge/-pmbhatiya-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pmbhatiya) 
 [![Mail Badge](https://img.shields.io/badge/-pmbhatiya-orange?style=flat&labelColor=orange&logo=google&logoColor=white)](#) 
-[![Mail Badge](https://img.shields.io/badge/-pmbhatiya-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:pmbhatiya9@gmail.com)
+[![Mail Badge](https://img.shields.io/badge/-pmbhatiya-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:pmbhatiya7@gmail.com)
 
 “Hi, I am Paresh Bhatiya, a B.E. (Computer Engineering) graduate from Gujarat Technological University, Ahmedabad. I currently work as a **Senior Software Engineer** and live in Bangalore, India.”
 
@@ -56,7 +56,7 @@ I qualified GATE 2020 conducted by IIT Delhi. I am currently working full-time a
 
 #### Bizness
 - :paperclip: [My Resume/CV](https://github.com/pmbhatiya/pmbhatiya/blob/master/resumes/Paresh_Bhatiya_CV.pdf)
-- :email: pmbhatiya9@gmail.com
+- :email: pmbhatiya7@gmail.com
 
 #### Profile Visits 
 
