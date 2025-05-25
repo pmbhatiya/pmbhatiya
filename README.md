@@ -62,27 +62,3 @@ I qualified GATE 2020 conducted by IIT Delhi. I am currently working full-time a
 
 ![visitors](https://komarev.com/ghpvc/?username=pmbhatiya&label=Profile%20visits&color=0e75b6&style=flat)
 
-<details>
-<summary>
-  More stuff about me
-</summary>
-
-<br >
-
-#### Coding Stats
-
-<!--START_SECTION:waka-->
-```text
-Python         10 hrs 20 mins  █████████████░░░░░░░░░░░░   45.12 % 
-Node.js         7 hrs 15 mins  ████████▒░░░░░░░░░░░░░░░░   31.66 % 
-C++             4 hrs 6 mins   ████░░░░░░░░░░░░░░░░░░░░░   17.94 % 
-HTML           1 hr 12 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
-CSS            38 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
-```
-<!--END_SECTION:waka-->
-
-#### Github Stats
-
-![Paresh's GitHub stats](https://github-readme-stats.vercel.app/api?username=pmbhatiya&show_icons=true&theme=tokyonight)
-
-</details>
